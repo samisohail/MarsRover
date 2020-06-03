@@ -1,0 +1,17 @@
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover_Tests.deps.json
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover_Tests.runtimeconfig.json
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover_Tests.runtimeconfig.dev.json
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover_Tests.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover_Tests.pdb
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\bin\Debug\netcoreapp2.2\MarsRover.pdb
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.csprojAssemblyReference.cache
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.AssemblyInfoInputs.cache
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.AssemblyInfo.cs
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.csproj.CopyComplete
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover_Tests\obj\Debug\netcoreapp2.2\MarsRover_Tests.pdb

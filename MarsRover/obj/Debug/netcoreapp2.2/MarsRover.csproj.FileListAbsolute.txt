@@ -1,0 +1,11 @@
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.deps.json
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.runtimeconfig.json
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.runtimeconfig.dev.json
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.pdb
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.csprojAssemblyReference.cache
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.AssemblyInfoInputs.cache
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.AssemblyInfo.cs
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\Sam\Work\Learning\NetStrata\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.pdb
